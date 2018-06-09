@@ -4,6 +4,7 @@
 	<groupId>Heroku</groupId>
 	<artifactId>Heroku</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<destFileName>webapp-runner.jar</destFileName>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>

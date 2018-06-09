@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Heroku
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: wikus
+Implementation-Vendor-Id: Heroku
+Build-Jdk: 1.8.0_121
+Implementation-URL: http://projects.spring.io/spring-boot/Heroku/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

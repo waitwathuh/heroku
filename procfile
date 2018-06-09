@@ -1,1 +1,1 @@
-java -jar Server.jar
+web: java -jar Server.jar
